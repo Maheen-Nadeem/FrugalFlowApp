@@ -1,4 +1,4 @@
-# FrugalFlowApp
+# Frugal Flow App
 An Android based mobile app for budget planning, net worth calculation, transaction history, expense categorization and financial forecasting.
 
 ## Brief Overview
@@ -40,3 +40,5 @@ The FrugalFlow Budget Tracking App helps users manage their finances efficiently
 ## System Design
 
 ### Database Diagram
+
+![Alt Text](Database-Diagram.png)
