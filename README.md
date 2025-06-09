@@ -3,8 +3,7 @@ An Android based mobile app for budget planning, net worth calculation, transact
 
 ## Brief Overview
 &nbsp; **Purpose:**
-The FrugalFlow Budget Tracking App helps users manage their finances efficiently by tracking income, expenses, savings goals, 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and budgets in one place, while providing insights and alerts to optimize spending and achieve financial targets.
+The FrugalFlow Budget Tracking App helps users manage their finances efficiently by tracking income, expenses, savings goals, and budgets in one place, while providing insights and alerts to optimize spending and achieve financial targets.
 
 &nbsp; **Key Features:**  
 - **Expense & Income Tracking**
